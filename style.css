@@ -1,0 +1,31 @@
+*{background-color: palevioletred;}
+.kutu{
+    width: 6rem;
+    height: 4rem;
+    background-color:grey;
+    border: 1px solid black;
+    margin:0.5rem;
+    float:left;
+}
+
+.kutu1{
+    width: 6rem;
+    height: 4rem;
+    background-color: grey;
+    border: 1px solid black;
+    margin: 0.5rem;
+    float:right;
+
+}
+
+.clearfix{
+    clear: both;
+}
+
+.kutu2{
+    width: 6rem;
+    height: 4rem;
+    background-color: grey;
+    border: 1px solid black;
+    margin: 0.5rem;
+}
